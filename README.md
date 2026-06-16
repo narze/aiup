@@ -32,6 +32,7 @@ Each tool runs concurrently. After updating, aiupdate shows the version change (
 | [Cursor Agent](https://cursor.com) | `cursor-agent update` |
 | [GitHub Copilot CLI](https://githubnext.com/projects/copilot-cli) | `copilot update` |
 | [pi](https://pi.dev/) | `pi update pi` |
+| [Antigravity](https://github.com/google-antigravity/antigravity-cli) | `agy update` |
 | [skills](https://github.com/anthropics/skills) | `npx skills update -g -p -y` |
 
 Tools not installed on your machine are silently skipped.

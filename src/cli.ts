@@ -22,6 +22,7 @@ export const AI_TOOLS: Tool[] = [
   { name: 'cursor-agent', command: 'cursor-agent', args: ['update'], versioned: true },
   { name: 'copilot', command: 'copilot', args: ['update'], versioned: true },
   { name: 'pi', command: 'pi', args: ['update', 'pi'], versioned: true },
+  { name: 'agy', command: 'agy', args: ['update'], versioned: true },
 ];
 
 export const SKILLS_TASK: Tool = {
